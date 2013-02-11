@@ -1,5 +1,5 @@
-Tuning hyperparams automatically with Spearmint
-===============================================
+The secret of the big guys
+==========================
 
 See [http://fastml.com/the-secret-of-the-big-guys/](http://fastml.com/the-secret-of-the-big-guys/) for description.
 
@@ -8,4 +8,4 @@ If interested, also check out [sofia-ml with sparse RBF mapping](https://github.
 	kin8nm - Spearmint experiment for kin8nm dataset
 	madelon - Spearmin experiment for madelon dataset
 	
-The code in these folders can also be run independently of Spearmint, using `run_once.py`.
+The code in these folders can also be run independently of Spearmint, using `run_once.py`. Either way, you will need sofia-ml and Vowpal Wabbit installed. We use VW because we like it, although there is also a linear learner in sofia-ml, so you can do both clustering and supervised learning just using sofia-ml.
