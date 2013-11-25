@@ -9,3 +9,6 @@ If interested, also check out [sofia-ml with sparse RBF mapping](https://github.
 	madelon - Spearmin experiment for madelon dataset
 	
 The code in these folders can also be run independently of Spearmint, using `run_once.py`. Either way, you will need sofia-ml and Vowpal Wabbit installed. We use VW because we like it, although there is also a linear learner in sofia-ml, so you can do both clustering and supervised learning just using sofia-ml.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/zygmuntz/the-secret-of-the-big-guys/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
